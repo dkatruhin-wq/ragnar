@@ -1,0 +1,3 @@
+fio = input("Введите ваше ФИО через пробел: ")
+formatted_fio = fio.title()
+print(f"Добро пожаловать {formatted_fio}")
